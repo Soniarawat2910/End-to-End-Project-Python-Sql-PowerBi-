@@ -1,0 +1,2 @@
+# End-to-End-Project-Python-Sql-PowerBi-
+End-to-End Data Analytics Project using Python, SQL, &amp; Power BI. The project covers the complete data workflow from data cleaning &amp; preprocessing in Python to performing analytical queries in SQL &amp; building an interactive dashboard in Power BI. It demonstrates data transformation, analysis, &amp;  visualization to generate meaningful business insights.
